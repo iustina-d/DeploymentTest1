@@ -1,0 +1,13 @@
+*{
+  background-color: burlywood;
+  color: black;
+}
+img{
+  width: 500px;
+  height: 500px;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
